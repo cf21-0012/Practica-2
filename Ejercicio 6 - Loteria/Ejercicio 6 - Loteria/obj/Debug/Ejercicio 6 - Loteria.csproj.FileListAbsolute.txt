@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\bin\Debug\Ejercicio 6 - Loteria.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\bin\Debug\Ejercicio 6 - Loteria.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\bin\Debug\Ejercicio 6 - Loteria.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\obj\Debug\Ejercicio 6 - Loteria.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\obj\Debug\Ejercicio 6 - Loteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\obj\Debug\Ejercicio 6 - Loteria.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\obj\Debug\Ejercicio 6 - Loteria.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 6 - Loteria\Ejercicio 6 - Loteria\obj\Debug\Ejercicio 6 - Loteria.pdb
