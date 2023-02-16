@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\bin\Debug\Ejercicio 5 - Invertidor de Palabras.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\bin\Debug\Ejercicio 5 - Invertidor de Palabras.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\bin\Debug\Ejercicio 5 - Invertidor de Palabras.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\obj\Debug\Ejercicio 5 - Invertidor de Palabras.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\obj\Debug\Ejercicio 5 - Invertidor de Palabras.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\obj\Debug\Ejercicio 5 - Invertidor de Palabras.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\obj\Debug\Ejercicio 5 - Invertidor de Palabras.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 5 - Invertidor de Palabras\Ejercicio 5 - Invertidor de Palabras\obj\Debug\Ejercicio 5 - Invertidor de Palabras.pdb
