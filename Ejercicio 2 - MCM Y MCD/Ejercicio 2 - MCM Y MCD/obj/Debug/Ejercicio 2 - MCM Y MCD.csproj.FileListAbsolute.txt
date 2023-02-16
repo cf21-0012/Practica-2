@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\bin\Debug\Ejercicio 2 - MCM Y MCD.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\bin\Debug\Ejercicio 2 - MCM Y MCD.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\bin\Debug\Ejercicio 2 - MCM Y MCD.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\obj\Debug\Ejercicio 2 - MCM Y MCD.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\obj\Debug\Ejercicio 2 - MCM Y MCD.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\obj\Debug\Ejercicio 2 - MCM Y MCD.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\obj\Debug\Ejercicio 2 - MCM Y MCD.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 2 - MCM Y MCD\Ejercicio 2 - MCM Y MCD\obj\Debug\Ejercicio 2 - MCM Y MCD.pdb
