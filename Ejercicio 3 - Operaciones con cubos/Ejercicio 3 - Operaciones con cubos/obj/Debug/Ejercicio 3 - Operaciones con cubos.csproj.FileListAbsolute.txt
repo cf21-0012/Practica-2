@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\bin\Debug\Ejercicio 3 - Operaciones con cubos.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\bin\Debug\Ejercicio 3 - Operaciones con cubos.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\bin\Debug\Ejercicio 3 - Operaciones con cubos.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\obj\Debug\Ejercicio 3 - Operaciones con cubos.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\obj\Debug\Ejercicio 3 - Operaciones con cubos.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\obj\Debug\Ejercicio 3 - Operaciones con cubos.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\obj\Debug\Ejercicio 3 - Operaciones con cubos.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 2\Ejercicio 3 - Operaciones con cubos\Ejercicio 3 - Operaciones con cubos\obj\Debug\Ejercicio 3 - Operaciones con cubos.pdb
